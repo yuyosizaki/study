@@ -1,0 +1,46 @@
+header{
+    background: #e72;
+}
+
+h2{
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.header__style{
+    font-size: 2rem;
+    color: #fff;
+}
+
+.contents{
+    background: #ffe;
+}
+
+.clearfix{
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.container{
+    padding: 1em 0;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.main{
+    width: 70%;
+    padding: 1rem 0;
+    border-top: solid 1px #ddd;
+}
+
+.main-wrapper{
+    padding: 1em;
+}
+
+.footer__wrapper{
+    padding: 1rem;
+    background: #444;
+    text-align: center;
+    color: #fff;
+}

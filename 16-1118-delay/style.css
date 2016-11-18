@@ -1,0 +1,22 @@
+.listwrapper{
+    width: 100px;
+}
+
+.list{
+    margin-bottom: 1em;
+    padding: 1em;
+    background: #666;
+    text-align: center;
+    color: #fff;
+}
+
+.slide_list{
+    position: relative;
+}
+
+.move{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background: #666;
+}

@@ -18,3 +18,9 @@ a{
     clear: both;
     display: block;
 }
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: #000;
+}
